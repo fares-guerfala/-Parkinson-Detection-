@@ -14,3 +14,6 @@ This is the result for each model :
 output: 
 
 ![3](https://user-images.githubusercontent.com/57867070/80285683-dd540700-8726-11ea-9426-e6cae874e935.PNG)
+
+
+PS: you can use this link to get the dataset from kaggle : https://www.kaggle.com/kmader/parkinsons-drawings#V03PO05.png
