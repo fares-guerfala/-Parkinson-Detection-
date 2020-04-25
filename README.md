@@ -7,7 +7,7 @@ This is the result for each model :
 
 ![ml](https://user-images.githubusercontent.com/57867070/80285644-b39ae000-8726-11ea-9a53-9e3615718165.PNG)
 
-1-DL model :
+2-DL model :
 
 ![2](https://user-images.githubusercontent.com/57867070/80285616-7df5f700-8726-11ea-9340-60982d6accdc.PNG)
 
@@ -16,4 +16,4 @@ output:
 ![3](https://user-images.githubusercontent.com/57867070/80285683-dd540700-8726-11ea-9426-e6cae874e935.PNG)
 
 
-PS: you can use this link to get the dataset from kaggle : https://www.kaggle.com/kmader/parkinsons-drawings#V03PO05.png
+PS: you can use this link to get the dataset for DL model from kaggle : https://www.kaggle.com/kmader/parkinsons-drawings#V03PO05.png
