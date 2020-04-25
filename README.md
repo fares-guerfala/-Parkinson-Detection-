@@ -1,5 +1,5 @@
 # -Parkinson-Detection
-In this project we will create two models in ML( with XGBoost and we will compare it with other classifier such as Random Forest,Logistic Regression,KNeighbors and SVC ) and in DL by usuing OpenCV, Computer Vision and we will based in Histogram of Oriented Gradients (HOG) to classify the images .
+In this project we will create two models in ML( with XGBoost and we will compare it with other classifiers such as Random Forest,Logistic Regression,KNeighbors and SVC ) and in DL by usuing OpenCV, Computer Vision and we will based in Histogram of Oriented Gradients (HOG) to classify the images .
 
 This is the result for each model :
 
